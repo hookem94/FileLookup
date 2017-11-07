@@ -3,8 +3,9 @@
 # FileLookup.py was created by Glenn P. Edwards Jr.
 #	http://hiddenillusion.blogspot.com
 #		@hiddenillusion
-# Date: 10-23-2012
-# version = 0.3.1
+# Forked by @hookem94
+# Date: 11-07-2017
+# version = 0.3.2
 
 # Requirements:
 #	- Internet Access :)
