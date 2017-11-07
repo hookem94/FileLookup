@@ -38,7 +38,7 @@ except ImportError:
 
 # Configure some user-specific info
 vt_key = ""
-if not re.match('\d+', vt_key):
+if not re.match('\w+', vt_key):
     print "[!] You must configure your VirusTotal API key"
     sys.exit()
 
